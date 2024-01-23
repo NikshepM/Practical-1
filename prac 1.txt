@@ -1,0 +1,2 @@
+The temperature in Celsius is: 31.11111111111111
+The temperature in Fahrenheit is: 89.6
